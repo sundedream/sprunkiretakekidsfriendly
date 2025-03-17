@@ -3,7 +3,7 @@
 ## 🌟 What is Sprunki Retake Kids Friendly?  
 **Sprunki Retake Kids Friendly** is a super fun music game made just for kids and families! It’s a special version of the popular *Sprunki Retake* game but without any scary stuff. You get to create cool beats with colorful characters in a happy, safe world. Perfect for young players who love music and creativity!   
 
-![Sprunki Retake Kids Friendly](./blob/main/logo.jpg)
+![Sprunki Retake Kids Friendly](./logo.jpg)
 
 **👉👉 Click to play*: [Sprunki Retake Kids Friendly](https://sprunkiretakekidsfriendly.pages.dev) 
 
